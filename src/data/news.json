@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "ABD eski başkanı Bush, Afganistan'daki olaylı bölgelerini belirledi ve uyardı.",
+    "image": "https://i.guim.co.uk/img/media/8277fb99ec028cd5de57c2aaf835121616e4e0f5/0_433_3000_1799/master/3000.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=79c5a1ac98e1b9931c123394f3ef14cc",
+    "date": 15
+  },
+  {
+    "id": 2,
+    "title": "Rusya, Ukrayna'ya saldırmaya devam ediyor. 200 sivil ölümü raporlandı.",
+    "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1786000/cin-ukrayna-rusya-1787295.jpg",
+    "date": 35
+  },
+  {
+    "id": 3,
+    "title": "Türkiye, İsveç'in NATO'ya girmemesi konusunda ısrarcılığını sürdürüyor.",
+    "image": "https://cdn1.ntv.com.tr/gorsel/__-RblA36Uaz623yO_e8jg.jpg?width=952&height=540&mode=both&scale=both",
+    "date": 40
+  },
+  {
+    "id": 4,
+    "title": "Suriye'deki törer grupları, açıklamalarak yaparak beklentilerini getirdi.",
+    "image": "https://iahbr.tmgrup.com.tr/2016/02/19/806x378/1455897379452.jpg",
+    "date": 45
+  }
+]
