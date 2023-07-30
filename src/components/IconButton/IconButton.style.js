@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  icon: {
+  button__icon: {
     width: 24,
     height: 24,
     resizeMode: 'contain',

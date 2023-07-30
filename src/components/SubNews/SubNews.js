@@ -9,10 +9,12 @@ const SubNews = ({ news }) => {
 
   return (
     <View style={styles.container}>
-      <Image source={{ uri: news.image }} style={styles.image} />
-      <View style={styles.information}>
-        <Text style={styles.title}>{news.title}</Text>
-        <View style={styles.footer}>
+      <Image source={{ uri: news.image }} style={styles.container__image} />
+      <View style={styles.container__information}>
+        <Text style={styles['container__information--title']}>
+          {news.title}
+        </Text>
+        <View style={styles['container__information--bottom']}>
           <Text style={styles.date}>{news.date} dakika önce</Text>
           <IconButton icon={shareIcon} />
           <IconButton icon={bookmarkIcon} />

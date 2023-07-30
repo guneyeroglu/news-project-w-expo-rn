@@ -5,7 +5,7 @@ import styles from './IconButton.style';
 const IconButton = ({ icon }) => {
   return (
     <TouchableOpacity style={styles.button}>
-      <Image source={icon} style={styles.icon} />
+      <Image source={icon} style={styles.button__icon} />
     </TouchableOpacity>
   );
 };

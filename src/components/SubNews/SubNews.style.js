@@ -8,26 +8,26 @@ const styles = StyleSheet.create({
     borderBottomColor: '#eeeeee',
     flexDirection: 'row',
   },
-  image: {
+  container__image: {
     width: 95,
     height: 95,
     resizeMode: 'cover',
     borderRadius: 8,
     marginRight: 20,
   },
-  information: {
+  container__information: {
     flex: 1,
     justifyContent: 'space-between',
     height: 95 + 10,
   },
-  title: {
+  'container__information--title': {
     fontSize: 15,
     lineHeight: 20,
     fontWeight: '500',
     color: '#444444',
     letterSpacing: -0.3,
   },
-  footer: {
+  'container__information--bottom': {
     flexDirection: 'row',
     alignItems: 'center',
   },
